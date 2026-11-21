@@ -1,0 +1,256 @@
+Patient_ID,Visit_Date,City,Age,Department,Admission_Type,Wait_Time_Minutes,Consultation_Minutes,Doctor_Experience_Years,Bill_Amount_INR,Satisfaction_Score,Insurance_Type
+P1001,2026-01-01,bengaluru,47,Orthopedics,Planned,33.0,18,18.0,2500.0,10,Government
+P1002,2026-01-02,Bengaluru,51,General Medicine,Walk-In,74.0,13,13.0,680.0,5,Government
+P1003,2026-01-04,delhi,63,Cardiology,Emergency,9.0,21,23.0,3210.0,5,
+P1004,2026-01-05,Bengaluru,32,Cardiology,Walk-In,44.0,29,26.0,3190.0,8,Self-Pay
+P1005,2026-01-06,Mumbai,65,General Medicine,Walk-In,25.0,30,7.0,1050.0,4,Private
+P1006,2026-01-08,Pune,63,General Medicine,Planned,5.0,10,3.0,1090.0,8,Self-Pay
+P1007,2026-01-09,Pune,77,Cardiology,Walk-In,31.0,22,14.0,2500.0,5,Government
+P1008,2026-01-11,Pune,42,Orthopedics,Planned,43.0,23,23.0,1530.0,4,Self-Pay
+P1009,2026-01-14,Delhi,1,Pediatrics,Emergency,27.0,12,20.0,640.0,9,Self-Pay
+P1010,2026-01-17,Lucknow,12,Pediatrics,Walk-In,71.0,9,9.0,720.0,7,Self-Pay
+P1010,2026-01-17,Lucknow,12,Pediatrics,Walk-In,71.0,9,9.0,720.0,7,Self-Pay
+P1011,2026-01-18,Pune,10,Pediatrics,Walk-In,94.0,24,2.0,1020.0,6,Self-Pay
+P1012,2026-01-19,Bengaluru,57,General Medicine,Walk-In,94.0,8,21.0,1320.0,4,Private
+P1013,2026-01-22,Mumbai,60,General Medicine,Walk-In,71.0,17,14.0,1250.0,6,Self-Pay
+P1014,2026-01-23,Pune,37,Orthopedics,Emergency,46.0,21,19.0,2840.0,5,Self-Pay
+P1015,2026-01-24,Lucknow,45,Orthopedics,Walk-In,50.0,25,25.0,2510.0,9,Government
+P1016,2026-01-24,Lucknow,38,Orthopedics,Planned,59.0,12,6.0,1530.0,6,Self-Pay
+P1017,2026-01-25, Delhi,48,Orthopedics,Walk-In,66.0,12,12.0,1230.0,5,Government
+P1018,2026-02-02,Delhi,15,Pediatrics,Walk-In,38.0,23,22.0,630.0,5,Self-Pay
+P1019,2026-02-02,Delhi,13,Pediatrics,Walk-In,65.0,22,17.0,,8,Self-Pay
+P1020,2026-02-03,Mumbai,7,Pediatrics,Walk-In,55.0,14,9.0,870.0,6,Government
+P1021,2026-02-04,Delhi,58,Orthopedics,Emergency,42.0,20,25.0,2290.0,4,Private
+P1022,2026-02-06,Delhi,38,Orthopedics,Emergency,44.0,27,25.0,1650.0,10,Self-Pay
+P1023,2026-02-07,Lucknow,47,Orthopedics,Emergency,9.0,14,2.0,2590.0,6,Government
+P1024,2026-02-08,Mumbai,29,Orthopedics,Emergency,5.0,26,20.0,1720.0,7,Self-Pay
+P1025,2026-02-08,Pune,10,Pediatrics,Walk-In,12.0,23,25.0,820.0,10,Government
+P1026,2026-02-08,Pune,81,Orthopedics,Planned,11.0,19,30.0,1510.0,5,Private
+P1027,2026-02-09, Delhi,20,Orthopedics,Emergency,48.0,28,26.0,2060.0,3,Government
+P1028,2026-02-09,Delhi,42,General Medicine,Emergency,25.0,23,20.0,1820.0,5,Private
+P1029,2026-02-12,Lucknow,31,Orthopedics,Emergency,27.0,13,12.0,3110.0,6,Government
+P1030,2026-02-15,Mumbai,187,Cardiology,Emergency,5.0,11,5.0,3810.0,7,Private
+P1031,2026-02-17,Bengaluru,18,Cardiology,Planned,28.0,21,26.0,2500.0,6,Private
+P1032,2026-02-17,Pune,56,Cardiology,Planned,7.0,25,25.0,3390.0,8,Self-Pay
+P1033,2026-02-17,Mumbai,17,Pediatrics,Planned,17.0,14,2.0,830.0,7,Self-Pay
+P1034,2026-02-20,Mumbai,6,Pediatrics,Walk-In,41.0,24,8.0,840.0,6,Government
+P1035,2026-02-21,Pune,4,Pediatrics,Planned,35.0,13,2.0,710.0,5,Government
+P1036,2026-02-21,Delhi,22,Orthopedics,Planned,6.0,18,14.0,2410.0,8,Self-Pay
+P1037,2026-02-22,Pune,56,General Medicine,Planned,38.0,16,11.0,1110.0,5,Government
+P1038,2026-02-22,MUMBAI,67,General Medicine,Emergency,11.0,22,6.0,1530.0,7,Private
+P1039,2026-02-26,Mumbai,65,Cardiology,Emergency,8.0,14,23.0,2200.0,9,Private
+P1040,2026-02-27,Mumbai ,68,Cardiology,Walk-In,119.0,12,18.0,3270.0,3,Government
+P1041,2026-02-28,Pune,37,Orthopedics,Emergency,9.0,13,19.0,3700.0,8,Private
+P1042,2026-03-01,Pune,1,Pediatrics,Walk-In,27.0,16,21.0,450.0,7,Government
+P1043,2026-03-02,Mumbai,36,Orthopedics,Planned,5.0,19,7.0,,10,Government
+P1044,2026-03-08,Mumbai,58,General Medicine,Emergency,70.0,25,2.0,1520.0,6,Private
+P1045,2026-03-10,Lucknow,37,Cardiology,Planned,5.0,19,5.0,2230.0,7,Private
+P1046,2026-03-10,Delhi,57,Cardiology,Walk-In,44.0,14,24.0,1580.0,8,Private
+P1047,2026-03-11,Pune,20,Orthopedics,Walk-In,81.0,17,6.0,2650.0,6,Private
+P1048,2026-03-13,delhi,36,Cardiology,Planned,72.0,7,8.0,2370.0,4,Government
+P1049,2026-03-16,Delhi,47,Orthopedics,Walk-In,101.0,9,7.0,1680.0,4,Self-Pay
+P1050,2026-03-17,Lucknow,38,Orthopedics,Walk-In,45.0,6,17.0,1940.0,2,Government
+P1051,2026-03-17,Lucknow,38,Cardiology,Emergency,13.0,20,5.0,4210.0,10,Government
+P1052,2026-03-17,Bengaluru,30,Orthopedics,Planned,54.0,14,19.0,2370.0,9,Private
+P1053,2026-03-18,Pune,6,Pediatrics,Emergency,46.0,8,17.0,640.0,7,Government
+P1054,2026-03-21,Mumbai,60,Cardiology,Emergency,6.0,5,18.0,4390.0,7,Self-Pay
+P1055,2026-03-21,Mumbai,30,Cardiology,Emergency,17.0,17,22.0,4410.0,10,Private
+P1056,2026-03-23,Bengaluru,50,General Medicine,Emergency,8.0,12,12.0,1480.0,9,Private
+P1057,2026-03-24,Lucknow,-4,Cardiology,Planned,66.0,17,15.0,1490.0,5,Private
+P1058,2026-03-25,Mumbai,75,Orthopedics,Walk-In,39.0,20,5.0,2270.0,5,Government
+P1059,2026-03-26,Pune,5,Pediatrics,Walk-In,,8,24.0,780.0,4,Government
+P1060,2026-03-28,Lucknow,22,General Medicine,Walk-In,77.0,16,29.0,710.0,9,Private
+P1061,2026-03-29,Bengaluru,63,Orthopedics,Planned,21.0,11,16.0,2560.0,10,Self-Pay
+P1062,2026-03-30,Lucknow,30,Orthopedics,Emergency,52.0,11,21.0,2900.0,7,Government
+P1063,2026-03-30,Lucknow,30,Orthopedics,Walk-In,91.0,13,26.0,1500.0,3,Private
+P1064,2026-03-31,Delhi,18,General Medicine,Planned,11.0,18,4.0,600.0,6,Government
+P1065,2026-03-31,Bengaluru,77,Cardiology,Emergency,5.0,25,27.0,2200.0,8,Private
+P1066,2026-04-01,Pune,9,Pediatrics,Walk-In,,18,13.0,830.0,8,Government
+P1067,2026-04-01,Mumbai,33,Orthopedics,Walk-In,44.0,21,7.0,2460.0,7,Government
+P1068,2026-04-02,Lucknow,27,Cardiology,Emergency,27.0,32,11.0,1950.0,7,Private
+P1069,2026-04-02,Bengaluru,23,General Medicine,Planned,75.0,24,11.0,560.0,4,Government
+P1070,2026-04-03,Delhi,15,Pediatrics,Planned,60.0,9,6.0,560.0,8,Government
+P1071,2026-04-04,Lucknow,48,Cardiology,Planned,103.0,23,28.0,1540.0,7,Private
+P1072,2026-04-04,Lucknow ,11,Pediatrics,Planned,22.0,17,26.0,,10,Private
+P1073,2026-04-05,Mumbai,34,Orthopedics,Emergency,5.0,17,25.0,3540.0,9,Self-Pay
+P1074,2026-04-05,Mumbai,32,Cardiology,Planned,26.0,17,26.0,3470.0,6,Government
+P1075,2026-04-08,Bengaluru,37,Cardiology,Walk-In,53.0,8,10.0,2420.0,6,Private
+P1076,2026-04-12,Pune,73,General Medicine,Walk-In,44.0,19,27.0,780.0,8,Private
+P1077,2026-04-13,Lucknow,55,General Medicine,Planned,14.0,13,7.0,1060.0,7,Self-Pay
+P1078,2026-04-13,Bengaluru,58,Cardiology,Planned,31.0,15,26.0,1500.0,6,Government
+P1079,2026-04-14,Pune,31,Orthopedics,Walk-In,37.0,21,11.0,2150.0,5,Government
+P1080,2026-04-14,Bengaluru,30,Orthopedics,Planned,5.0,21,2.0,1840.0,7,Private
+P1081,2026-04-15,Bengaluru,58,Orthopedics,Planned,6.0,23,23.0,1720.0,6,Government
+P1082,2026-04-15,Delhi,22,General Medicine,Planned,47.0,21,22.0,760.0,8,Private
+P1083,2026-04-20,Delhi,42,Cardiology,Planned,11.0,16,,2710.0,8,Private
+P1084,2026-04-22,Mumbai,26,Cardiology,Walk-In,32.0,11,21.0,2850.0,7,Private
+P1085,2026-04-22,Delhi,42,Cardiology,Emergency,6.0,15,8.0,4740.0,8,Private
+P1086,2026-04-22,Lucknow,53,Cardiology,Walk-In,40.0,18,10.0,3210.0,10,Self-Pay
+P1087,2026-04-23,Pune,24,General Medicine,Walk-In,104.0,13,11.0,1310.0,3,Self-Pay
+P1088,2026-04-23,Lucknow,3,Pediatrics,Walk-In,17.0,12,21.0,580.0,9,Self-Pay
+P1089,2026-04-24,Pune,43,General Medicine,Planned,58.0,20,21.0,1290.0,5,Government
+P1090,2026-04-25,Delhi,21,Cardiology,Emergency,26.0,9,27.0,3080.0,7,
+P1091,2026-04-25,Pune,66,Orthopedics,Emergency,9.0,23,12.0,1690.0,9,Private
+P1092,2026-04-25,Bengaluru,54,Orthopedics,Emergency,46.0,25,6.0,2210.0,10,Government
+P1093,2026-04-30,Delhi,25,General Medicine,Emergency,26.0,19,19.0,1630.0,8,Private
+P1094,2026-05-01,Bengaluru,38,General Medicine,Emergency,40.0,11,24.0,1410.0,5,Government
+P1095,2026-05-02,Delhi,38,Cardiology,Emergency,46.0,17,18.0,,5,Self-Pay
+P1096,2026-05-02,Pune,19,Cardiology,Planned,44.0,20,28.0,3170.0,5,Private
+P1097,2026-05-04,Bengaluru,42,Orthopedics,Walk-In,68.0,19,12.0,1570.0,1,Private
+P1098,2026-05-04,Mumbai,13,Pediatrics,Planned,42.0,23,8.0,640.0,8,Private
+P1099,2026-05-05,lucknow,47,General Medicine,Planned,11.0,16,6.0,1020.0,8,Private
+P1100,2026-05-06,Lucknow,18,Orthopedics,Walk-In,118.0,21,7.0,1740.0,2,Government
+P1101,2026-05-08,Mumbai,58,General Medicine,Planned,35.0,11,25.0,1050.0,9,Government
+P1102,2026-05-08,Mumbai,9,Pediatrics,Emergency,26.0,23,5.0,960.0,5,Government
+P1103,2026-05-12,Mumbai,54,Cardiology,Planned,10.0,8,7.0,2640.0,8,Private
+P1104,2026-05-13,Bengaluru,25,Cardiology,Walk-In,90.0,18,23.0,2720.0,2,Private
+P1105,2026-05-16,bengaluru,40,Cardiology,Walk-In,69.0,14,10.0,2950.0,6,Private
+P1106,2026-05-17,Pune,30,Orthopedics,Planned,25.0,20,28.0,2610.0,7,Private
+P1107,2026-05-18,Mumbai,67,Cardiology,Planned,76.0,31,19.0,1580.0,5,Government
+P1108,2026-05-19,Lucknow,46,General Medicine,Emergency,28.0,30,28.0,1550.0,6,Private
+P1109,2026-05-19,Lucknow,46,Orthopedics,Walk-In,5.0,18,26.0,2530.0,7,Self-Pay
+P1110,2026-05-22,Delhi,53,Orthopedics,Walk-In,52.0,15,23.0,1530.0,6,Private
+P1111,2026-05-23,Lucknow,48,General Medicine,Walk-In,81.0,33,15.0,610.0,5,Government
+P1112,2026-05-23,Bengaluru,8,Pediatrics,Emergency,59.0,12,10.0,830.0,6,Self-Pay
+P1113,2026-05-23, Delhi,1,Pediatrics,Walk-In,54.0,13,20.0,960.0,8,Government
+P1114,2026-05-25,Bengaluru,37,Cardiology,Walk-In,108.0,18,26.0,1680.0,5,Private
+P1114,2026-05-25,Bengaluru,37,Cardiology,Walk-In,108.0,18,26.0,1680.0,5,Private
+P1115,2026-05-25,Lucknow,28,Orthopedics,Planned,27.0,12,10.0,1360.0,6,Private
+P1116,2026-05-25,Pune,55,Orthopedics,Walk-In,28.0,20,5.0,2300.0,7,Self-Pay
+P1117,2026-05-27,Mumbai,24,Cardiology,Planned,41.0,17,17.0,1630.0,7,Private
+P1118,2026-05-27,Pune,67,Orthopedics,Walk-In,93.0,27,14.0,1620.0,2,Private
+P1119,2026-05-28,Bengaluru,26,Orthopedics,Walk-In,38.0,24,2.0,1530.0,9,Private
+P1120,2026-05-28,Pune,51,Orthopedics,Planned,17.0,21,10.0,2730.0,8,Private
+P1121,2026-05-31,Pune,57,General Medicine,Planned,16.0,19,,970.0,10,Private
+P1122,2026-06-02,Pune,56,Cardiology,Planned,11.0,5,14.0,3460.0,7,Government
+P1123,2026-06-03,Delhi,12,Pediatrics,Planned,21.0,21,15.0,490.0,7,Government
+P1124,2026-06-07,Pune,28,Orthopedics,Emergency,19.0,19,3.0,2430.0,6,Government
+P1125,2026-06-08,Pune,13,Pediatrics,Emergency,24.0,9,23.0,590.0,8,Private
+P1126,2026-06-09,Bengaluru,8,Pediatrics,Emergency,18.0,22,30.0,1330.0,7,Self-Pay
+P1127,2026-06-09,Lucknow,52,General Medicine,Walk-In,53.0,17,23.0,620.0,9,Government
+P1128,2026-06-12,Pune,31,General Medicine,Planned,67.0,17,15.0,800.0,6,Government
+P1129,2026-06-12,Mumbai,3,Pediatrics,Emergency,28.0,16,20.0,1390.0,7,Private
+P1130,2026-06-12,Bengaluru,44,Cardiology,Walk-In,58.0,20,18.0,1660.0,4,
+P1131,2026-06-18,Bengaluru,28,General Medicine,Planned,36.0,14,20.0,1250.0,7,Government
+P1132,2026-06-18,Lucknow,34,Orthopedics,Planned,23.0,9,6.0,2210.0,10,Private
+P1132,2026-06-18,Lucknow,34,Orthopedics,Planned,23.0,9,6.0,2210.0,10,Private
+P1133,2026-06-19,Mumbai,5,Pediatrics,Walk-In,38.0,24,13.0,710.0,4,Self-Pay
+P1134,2026-06-20,Mumbai,23,General Medicine,Walk-In,39.0,9,22.0,1110.0,5,Self-Pay
+P1135,2026-06-20,Mumbai,23,General Medicine,Walk-In,39.0,10,24.0,590.0,4,Government
+P1136,2026-06-22,bengaluru,38,Orthopedics,Planned,36.0,27,25.0,1260.0,5,Government
+P1137,2026-06-23,Delhi,14,Pediatrics,Planned,16.0,14,7.0,830.0,10,Self-Pay
+P1138,2026-06-24,Lucknow,17,Pediatrics,Walk-In,82.0,25,29.0,960.0,6,Private
+P1139,2026-06-25,Lucknow,36,General Medicine,Emergency,19.0,5,28.0,1340.0,7,Self-Pay
+P1140,2026-06-25,Delhi,48,Cardiology,Walk-In,16.0,10,7.0,1520.0,6,Government
+P1141,2026-06-28,Delhi,46,General Medicine,Emergency,9.0,24,25.0,1070.0,10,Government
+P1142,2026-06-28,MUMBAI,35,Cardiology,Emergency,11.0,19,29.0,3870.0,7,Self-Pay
+P1143,2026-06-29,Delhi,37,Cardiology,Emergency,35.0,10,18.0,4640.0,8,Self-Pay
+P1144,2026-06-30,Bengaluru,48,Orthopedics,Planned,27.0,5,6.0,1670.0,6,Private
+P1145,2026-06-30,Mumbai,73,Cardiology,Emergency,23.0,22,21.0,2630.0,9,Private
+P1146,2026-07-05,Pune,29,General Medicine,Planned,5.0,19,18.0,620.0,7,Government
+P1147,2026-07-05,Pune,33,Cardiology,Emergency,25.0,18,3.0,2140.0,8,Private
+P1148,2026-07-07,Pune,44,Orthopedics,Walk-In,84.0,20,4.0,1250.0,4,Self-Pay
+P1149,2026-07-08,Lucknow,15,Pediatrics,Walk-In,96.0,30,,860.0,6,Self-Pay
+P1150,2026-07-10,Bengaluru,19,Cardiology,Walk-In,40.0,17,8.0,2340.0,8,Self-Pay
+P1151,2026-07-11,Mumbai,65,General Medicine,Emergency,6.0,19,20.0,940.0,7,Government
+P1152,2026-07-12,Pune,27,Cardiology,Emergency,61.0,19,21.0,4740.0,6,Government
+P1153,2026-07-12,Bengaluru,10,Pediatrics,Walk-In,72.0,9,10.0,740.0,9,Self-Pay
+P1154,2026-07-13,Pune,61,General Medicine,Walk-In,69.0,21,15.0,1170.0,5,Private
+P1154,2026-07-13,Pune,61,General Medicine,Walk-In,69.0,21,15.0,1170.0,5,Private
+P1155,2026-07-13,Lucknow,49,Cardiology,Emergency,45.0,13,6.0,3570.0,5,Private
+P1156,2026-07-15,Mumbai,56,Cardiology,Emergency,5.0,19,19.0,2290.0,7,Self-Pay
+P1157,2026-07-15,Mumbai,43,General Medicine,Emergency,39.0,15,12.0,840.0,5,Private
+P1158,2026-07-16,Bengaluru,33,Orthopedics,Walk-In,24.0,14,10.0,1950.0,7,Private
+P1159,2026-07-19,Mumbai,11,Pediatrics,Emergency,44.0,13,9.0,690.0,8,Government
+P1160,2026-07-19,Mumbai,32,General Medicine,Walk-In,92.0,18,3.0,1190.0,4,Self-Pay
+P1161,2026-07-22,Lucknow ,52,Orthopedics,Planned,44.0,22,2.0,2280.0,7,Government
+P1162,2026-07-25,Pune,3,Pediatrics,Planned,42.0,17,27.0,930.0,8,Government
+P1163,2026-07-26,Bengaluru,59,Orthopedics,Walk-In,65.0,11,30.0,2440.0,6,Government
+P1164,2026-07-28,Delhi,60,Cardiology,Walk-In,65.0,21,21.0,1790.0,5,Self-Pay
+P1165,2026-08-02,Lucknow,21,Orthopedics,Walk-In,42.0,20,20.0,1440.0,7,Government
+P1166,2026-08-04,Delhi,61,Cardiology,Planned,14.0,19,16.0,2370.0,10,Government
+P1167,2026-08-06,Lucknow,22,Orthopedics,Emergency,17.0,5,22.0,2430.0,7,Self-Pay
+P1168,2026-08-09,Pune,23,Cardiology,Planned,35.0,15,12.0,1990.0,5,Self-Pay
+P1169,2026-08-11,Delhi,35,Orthopedics,Emergency,83.0,41,24.0,2010.0,7,Government
+P1170,2026-08-11,Delhi,64,General Medicine,Walk-In,48.0,15,16.0,740.0,5,Government
+P1171,2026-08-12,Mumbai,10,Pediatrics,Walk-In,23.0,17,13.0,980.0,5,Self-Pay
+P1172,2026-08-12,Lucknow,44,General Medicine,Planned,46.0,16,3.0,1270.0,7,Private
+P1173,2026-08-13,Delhi,7,Pediatrics,Walk-In,81.0,10,4.0,710.0,1,Self-Pay
+P1174,2026-08-16,Delhi,63,General Medicine,Emergency,11.0,21,11.0,1080.0,10,Private
+P1175,2026-08-18,MUMBAI,50,General Medicine,Planned,16.0,18,8.0,1330.0,9,Private
+P1176,2026-08-18,Mumbai,60,General Medicine,Planned,5.0,30,23.0,870.0,5,Government
+P1177,2026-08-19,Pune,54,General Medicine,Emergency,21.0,8,22.0,1240.0,7,Self-Pay
+P1178,2026-08-20,Pune,53,Cardiology,Planned,32.0,19,24.0,3560.0,6,Self-Pay
+P1179,2026-08-20,Lucknow,83,Orthopedics,Planned,26.0,33,21.0,1770.0,6,Government
+P1180,2026-08-20,Mumbai,8,Pediatrics,Walk-In,32.0,28,2.0,980.0,5,Self-Pay
+P1181,2026-08-24,Bengaluru,56,General Medicine,Walk-In,76.0,24,20.0,1150.0,5,Private
+P1182,2026-08-26,Bengaluru,61,Orthopedics,Walk-In,61.0,26,4.0,,4,Government
+P1183,2026-08-26,lucknow,34,General Medicine,Walk-In,35.0,13,25.0,540.0,6,Government
+P1184,2026-08-26,Bengaluru,6,Pediatrics,Planned,53.0,20,6.0,850.0,7,Self-Pay
+P1185,2026-08-27,Pune,37,General Medicine,Walk-In,35.0,16,16.0,630.0,10,Private
+P1186,2026-08-27,Mumbai,66,General Medicine,Planned,24.0,12,16.0,1040.0,5,Private
+P1187,2026-08-28,Lucknow,37,General Medicine,Emergency,27.0,18,4.0,1080.0,8,Self-Pay
+P1188,2026-08-28,Pune,4,Pediatrics,Planned,31.0,25,20.0,600.0,10,Self-Pay
+P1189,2026-08-29,Delhi,4,Pediatrics,Walk-In,45.0,10,18.0,460.0,10,Private
+P1190,2026-08-31,Lucknow,75,General Medicine,Planned,60.0,23,27.0,1140.0,3,Government
+P1191,2026-09-04,Delhi,74,Cardiology,Planned,27.0,27,25.0,2660.0,5,Government
+P1192,2026-09-04,Pune,40,Orthopedics,Planned,5.0,14,23.0,2650.0,10,Self-Pay
+P1193,2026-09-04,Bengaluru,13,Pediatrics,Planned,33.0,5,19.0,460.0,5,Self-Pay
+P1194,2026-09-05,Lucknow,21,General Medicine,Planned,9.0,9,17.0,930.0,8,Private
+P1195,2026-09-05,Pune,9,Pediatrics,Planned,5.0,12,13.0,720.0,8,Government
+P1196,2026-09-09,Bengaluru,26,Orthopedics,Planned,20.0,21,29.0,2340.0,8,Private
+P1197,2026-09-11,Mumbai,16,Pediatrics,Planned,50.0,25,15.0,880.0,5,Government
+P1198,2026-09-12,Bengaluru,49,General Medicine,Walk-In,103.0,15,17.0,1270.0,6,Self-Pay
+P1199,2026-09-14,Delhi,38,General Medicine,Emergency,27.0,29,7.0,1210.0,6,Self-Pay
+P1200,2026-09-16,Mumbai,33,General Medicine,Emergency,5.0,6,30.0,1070.0,9,Self-Pay
+P1201,2026-09-16,Mumbai ,88,Orthopedics,Emergency,54.0,18,17.0,2690.0,7,Private
+P1201,2026-09-16,Mumbai ,88,Orthopedics,Emergency,54.0,18,17.0,2690.0,7,Private
+P1202,2026-09-16,Pune,24,General Medicine,Emergency,31.0,12,16.0,960.0,9,Private
+P1203,2026-09-17,Bengaluru,4,Pediatrics,Planned,43.0,14,29.0,980.0,5,Self-Pay
+P1204,2026-09-18,Bengaluru,53,General Medicine,Emergency,31.0,22,29.0,1130.0,10,Self-Pay
+P1205,2026-09-20,Mumbai,56,Orthopedics,Planned,47.0,8,3.0,1610.0,4,Self-Pay
+P1206,2026-09-20,Mumbai,47,Cardiology,Walk-In,65.0,21,,3010.0,6,Private
+P1207,2026-09-21,Delhi,31,General Medicine,Emergency,32.0,26,28.0,1770.0,9,Private
+P1208,2026-09-22,Delhi,34,General Medicine,Emergency,8.0,27,26.0,1150.0,9,Government
+P1209,2026-09-22,Mumbai,10,Pediatrics,Planned,36.0,13,22.0,970.0,7,Private
+P1210,2026-09-22,Lucknow,23,Cardiology,Emergency,29.0,21,3.0,2410.0,7,Government
+P1211,2026-09-27,Mumbai,72,General Medicine,Walk-In,,5,20.0,1300.0,5,Self-Pay
+P1212,2026-09-27,Lucknow,13,Pediatrics,Planned,16.0,9,2.0,600.0,8,Government
+P1213,2026-09-28,Delhi,58,Cardiology,Walk-In,63.0,24,15.0,2290.0,7,Self-Pay
+P1214,2026-09-28,Pune,17,Pediatrics,Walk-In,82.0,22,8.0,840.0,3,Private
+P1215,2026-09-30,Mumbai ,41,Orthopedics,Planned,13.0,12,24.0,1300.0,7,Self-Pay
+P1216,2026-10-01,Delhi,66,Orthopedics,Planned,17.0,22,8.0,1620.0,7,Government
+P1217,2026-10-01,Pune,74,Cardiology,Emergency,36.0,21,12.0,3300.0,6,Self-Pay
+P1218,2026-10-01,Delhi,24,General Medicine,Planned,72.0,19,25.0,1120.0,4,Private
+P1219,2026-10-02,delhi,58,General Medicine,Walk-In,,8,14.0,1320.0,5,Private
+P1220,2026-10-03,Mumbai,79,Cardiology,Planned,25.0,15,28.0,1860.0,7,Private
+P1221,2026-10-04,Delhi,58,Cardiology,Walk-In,27.0,21,2.0,1560.0,10,Government
+P1222,2026-10-04,Mumbai,2,Pediatrics,Emergency,45.0,19,10.0,1170.0,8,Private
+P1223,2026-10-06,Pune,30,General Medicine,Planned,67.0,13,20.0,820.0,9,Private
+P1224,2026-10-06,Mumbai,53,Cardiology,Planned,25.0,15,11.0,2410.0,7,Self-Pay
+P1225,2026-10-06,Mumbai,19,General Medicine,Emergency,47.0,20,29.0,1460.0,5,
+P1226,2026-10-07,Mumbai,16,Pediatrics,Emergency,,19,22.0,810.0,8,Private
+P1227,2026-10-09,Delhi,6,Pediatrics,Planned,53.0,17,8.0,970.0,6,Private
+P1228,2026-10-09,Pune,57,Orthopedics,Emergency,6.0,10,17.0,2020.0,8,Self-Pay
+P1229,2026-10-10,Bengaluru,36,General Medicine,Planned,57.0,17,9.0,1060.0,4,Private
+P1230,2026-10-10,Pune,12,Pediatrics,Emergency,38.0,24,15.0,1300.0,5,Government
+P1231,2026-10-10,Bengaluru,55,Orthopedics,Planned,22.0,16,26.0,2550.0,6,Private
+P1232,2026-10-12,Pune,69,Cardiology,Walk-In,78.0,13,28.0,2030.0,3,Private
+P1233,2026-10-12,Mumbai,55,General Medicine,Walk-In,27.0,19,16.0,1140.0,6,Government
+P1234,2026-10-12,Bengaluru,48,General Medicine,Walk-In,78.0,11,25.0,760.0,3,Government
+P1235,2026-10-17,Mumbai,50,Cardiology,Walk-In,48.0,11,23.0,2500.0,8,Self-Pay
+P1236,2026-10-19,Lucknow ,2,Pediatrics,Planned,37.0,12,17.0,450.0,9,Government
+P1237,2026-10-20,Pune,3,Pediatrics,Emergency,36.0,20,25.0,760.0,9,Government
+P1238,2026-10-21,lucknow,43,General Medicine,Walk-In,55.0,18,2.0,660.0,7,Private
+P1239,2026-10-22,Bengaluru,52,Cardiology,Emergency,30.0,20,4.0,2300.0,8,Government
+P1240,2026-10-24,Delhi,48,Orthopedics,Planned,53.0,26,12.0,1230.0,6,Government
+P1241,2026-10-24,Mumbai,31,Orthopedics,Planned,30.0,28,3.0,1180.0,10,Self-Pay
+P1242,2026-10-25,Delhi,60,General Medicine,Walk-In,42.0,17,5.0,820.0,8,Self-Pay
+P1243,2026-10-27,Lucknow,51,Cardiology,Emergency,5.0,36,6.0,3280.0,4,Private
+P1244,2026-10-27,Mumbai,52,Cardiology,Planned,56.0,18,27.0,3230.0,6,
+P1245,2026-10-28,Lucknow,65,General Medicine,Planned,45.0,20,27.0,1080.0,3,Self-Pay
+P1246,2026-10-30,Mumbai,67,General Medicine,Emergency,11.0,13,,1680.0,7,Private
+P1247,2026-10-30,Bengaluru,14,Pediatrics,Walk-In,74.0,12,13.0,940.0,4,Private
+P1248,2026-10-31,Mumbai,46,General Medicine,Emergency,,16,2.0,800.0,6,Government
+P1249,2026-10-31,Lucknow,24,General Medicine,Planned,49.0,10,24.0,780.0,8,Self-Pay
+P1250,2026-10-31,Delhi,65,General Medicine,Planned,59.0,34,22.0,1110.0,2,Private
